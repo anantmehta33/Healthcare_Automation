@@ -1,3 +1,4 @@
 # Healthcare_Automation
-DBMS Project to automate the dispensary of the University
+DBMS Project to automate the dispensary of the University <\br>
+Below is the ER diagram of how Medicines, Doctors and Patients are connected.
 ![Uploading image.png…]()
