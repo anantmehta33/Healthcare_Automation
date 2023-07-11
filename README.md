@@ -2,10 +2,10 @@
 DBMS Project to automate the dispensary of the University <br>
 Below is the ER diagram of how Medicines, Doctors and Patients are connected.<br>
 # Details about the project: <br>
-Healthcare Management System is a database that is developed to facilitate the basic working of pharmacy here at Thapar Institute of Engineering and Technology. This project will help to store the student’s medical record, the doctors assigned to that student, and what medicines are prescribed for what underlying symptoms. This project will also help the staff to keep the record of medicines in their stock and provide them with the basic details like the amount of medicine present and their respective expiry dates. We are also trying to make a website for this project so that the basic things like booking an appointment and calling an ambulance (in case of emergencies) can be easily provided to the student here at Thapar. <br>
+Healthcare Management System is a database that is developed to facilitate the basic working of pharmacy here at Thapar Institute of Engineering and Technology. This project will help to store the student’s medical record, the doctors assigned to that student, and what medicines are prescribed for what underlying symptoms. This project will also help the staff to keep the record of medicines in their stock and provide them with the basic details like the amount of medicine present and their respective expiry dates.<br>
 # Purpose:
 Purpose:
-As we know health is the most important thing in our life. So how we manage our health records should also be given the same importance. The purpose of developing a Healthcare Management system is to automate the ways followed to store the medical information of a student. We hope that this project would help our staff members and doctors to store the records in a proper and secure manner and the students should also be able to access their records easily.<br>
+As we know health is the most important thing in our life. So how we manage our health records should also be given the same importance. The purpose of developing a Healthcare Management system is to automate the ways followed to store the medical information of a student. I hope that this project would help our staff members and doctors to store the records in a proper and secure manner and the students should also be able to access their records easily.<br>
 # Tables After Normalization: <br>
 1.	Patient Table
 Name 	Patient ID/ Roll Number 	Branch	Symptoms	Age	Sex	Hostel	Room Number	Mobile Number <br>
